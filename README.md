@@ -17,9 +17,8 @@ I enjoy building scalable and maintainable applications using Spring, Spring Boo
 ### 💬 Ask Me About
 - Java  
 - SQL  
-- Web Technologies  
-- Servlets  
-- Spring & Spring Boot  
+- Web Technologies   
+- Spring  
 
 ### 📫 How to Reach Me
 - Email: **eteeshgowda@gmail.com**
