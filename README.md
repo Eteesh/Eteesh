@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eteesh Gowda M</h1>
-🚀 **About Me
+🚀 About Me
 
 
 I am a **Java Full Stack Development Intern** with a strong foundation in **Core Java, OOP concepts, SQL, and backend development**. I enjoy building **scalable and maintainable applications** using **Spring, Spring Boot, JDBC, and Hibernate**.
