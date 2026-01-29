@@ -6,7 +6,7 @@ I am a **Java Full Stack Development Intern** with a strong foundation in **Core
 I have hands-on experience working on projects that apply **Core Java, SQL, and backend technologies** to build **scalable and maintainable applications**. By leveraging **Spring, Spring Boot, JDBC, and Hibernate**, I focus on delivering **high-quality software solutions** that meet modern standards for **performance, reliability, and maintainability**.
 
 
-🔭 **Currently Learning:** AWS (Cloud Fundamentals)  
+🔭 **Currently Learning:**Gaining hands-on knowledge of DevOps fundamentals, including CI/CD concepts, version control, automation, and deployment practices.
 💬 **Ask Me About:** Java, SQL, Web Technologies, Servlets, Spring, Spring Boot  
 📫 **How to Reach Me:** eteeshgowda@gmail.com  
 
